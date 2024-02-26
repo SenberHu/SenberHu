@@ -8,8 +8,8 @@
 
 - About me 👏
 - 😄 C/C++/Golang
-- ⭐ Linux/Windows
-- 🔅 Hids/Hips/EDR/EPP
-- ❗ Love to study source code (linux kernel)
+- ⭐ Linux/Windows/Mac
+- 🔅 Hids/Hips/EDR/EPP/DLP
+- ❗ Love to study source code (kernel)
 - 📫 How to reach me: [senberhu@gmail.com](mailto:senberhu@gmail.com)
 - 🔭 I’m currently working on Meituan Sec Team
